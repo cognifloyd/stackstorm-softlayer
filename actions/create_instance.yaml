@@ -51,4 +51,4 @@ parameters:
     type: string
     description: Ssh key to attach to this instance.
 
-runner_type: run-python
+runner_type: python-script

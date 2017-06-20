@@ -8,4 +8,4 @@ parameters:
     type: string
     description: Instance hostname to destroy (Softlayer hostname, so domain included)
 
-runner_type: run-python
+runner_type: python-script
