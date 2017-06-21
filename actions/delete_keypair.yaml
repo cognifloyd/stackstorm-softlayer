@@ -7,4 +7,4 @@ parameters:
     required: true
     type: string
     description: Name of the key pair.
-runner_type: run-python
+runner_type: python-script
