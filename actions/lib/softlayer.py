@@ -1,6 +1,6 @@
 from libcloud.compute.providers import Provider
 from libcloud.compute.providers import get_driver
-from st2actions.runners.pythonrunner import Action
+from st2common.runners.base_action import Action
 
 
 class SoftlayerBaseAction(Action):
